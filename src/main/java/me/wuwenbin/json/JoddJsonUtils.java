@@ -18,7 +18,7 @@ public class JoddJsonUtils {
      *
      * @return
      */
-    public JsonSerializer serializer() {
+    public static JsonSerializer serializer() {
         return new JsonSerializer();
     }
 
@@ -26,7 +26,7 @@ public class JoddJsonUtils {
      * 获取json转对象的操作对象
      * @return
      */
-    public JsonParser parser(){
+    public static JsonParser parser(){
         return new JsonParser();
     }
 }
