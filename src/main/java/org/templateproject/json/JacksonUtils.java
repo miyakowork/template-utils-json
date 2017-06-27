@@ -1,4 +1,4 @@
-package me.wuwenbin.json;
+package org.templateproject.json;
 
 import org.codehaus.jackson.map.ObjectMapper;
 

@@ -1,4 +1,4 @@
-package me.wuwenbin.json;
+package org.templateproject.json;
 
 /**
  * Created by wuwenbin on 2017/2/17.
